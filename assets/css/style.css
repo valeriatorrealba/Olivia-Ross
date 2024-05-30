@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+.bg-navbar-propio{
+    background-color: #373A3C;
+}
+header{
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-mis-trabajos{
+    background-color: #17A2B8;
+}
+.tarjeta{
+    height: 400px;
+}
+footer{
+    background-color: #0F0F0F;
+    
+}
+footer p{
+    color: #ffffff;
+    text-align: center;
+    padding: 25px 0px;  
+    margin: 0px;  
+}
+
+@media screen and (max-width: 575px) {
+    .oculto{
+        display: block;
+        display: none;
+    }
+    .tarjetas-padding{
+        margin-bottom: 45px;
+    }
+    header{
+        background-position: 30%;
+    }
+    .texto-movil{
+        text-align: right;
+        padding-right: 15px;
+    }
+
+}
