@@ -3,4 +3,7 @@
 Página web realizada usando Html5, Css3, Boostrap
 
 ![OliviaRoss](screenshot/oliviaRoss.png)
-![OliviaRossResponsive]()
+
+Diseño Responsivo
+
+![OliviaRossResponsive](screenshot/oliviaRossRp.png)
