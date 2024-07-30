@@ -2,6 +2,10 @@
 
 Este es un proyecto web para el portafolio de Olivia Ros, que presenta su trabajo en fotografía culinaria, crítica culinaria y blogging de viajes.
 
+## Descripción
+
+Olivia Ros es un portafolio en línea que muestra el trabajo y las habilidades de Olivia en fotografía de comida, crítica culinaria y blogging de viajes. El sitio está diseñado para proporcionar información clara sobre su experiencia, trabajos anteriores y cómo contactarla.
+
 ## Vista Codificada
 
 A continuación, se muestra la imagen del resultado codificado:
