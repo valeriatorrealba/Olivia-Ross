@@ -10,11 +10,7 @@ Olivia Ros es un portafolio en línea que muestra el trabajo y las habilidades d
 
 A continuación, se muestra la imagen del resultado codificado:
 
-![OliviaRoss](screenshot/oliviaRoss.png)
-
-Diseño Responsivo
-
-![OliviaRossResponsive](screenshot/oliviaRossRp.png)
+![OliviaRoss](assets/screenshot/oliviaRoss.png)
 
 ## Estructura del Proyecto
 
